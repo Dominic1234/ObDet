@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144932073309",
+    "firebase_url": "https://obdet-b50e7.firebaseio.com",
+    "project_id": "obdet-b50e7",
+    "storage_bucket": "obdet-b50e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144932073309:android:83677710b0b4c70d",
+        "android_client_info": {
+          "package_name": "com.example.obdet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144932073309-9jthp0r0tkj55nefked89qc4qaeue3te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.obdet",
+            "certificate_hash": "f2d5a86a899c70f808449640bf8726f503f3cfdf"
+          }
+        },
+        {
+          "client_id": "144932073309-60o01pa2d8aq1co6vidd3n87org78flh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEw9QUyUuMktvlcy1wDeYrodGUMx2c9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144932073309-60o01pa2d8aq1co6vidd3n87org78flh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
